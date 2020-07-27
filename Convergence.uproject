@@ -2,5 +2,16 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.23",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "FlockingBehaviourSystem",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/slug/flocking-behaviour-system-ideal-for-simulation-of-birds-fish-bees-and-more"
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
+		}
+	]
 }
