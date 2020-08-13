@@ -1,0 +1,2 @@
+Logbook:
+after clicking on a button, cannot close logbook (tab) without first clicking on the screen.
