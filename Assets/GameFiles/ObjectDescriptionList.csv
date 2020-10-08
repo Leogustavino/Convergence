@@ -1,0 +1,12 @@
+﻿,ObjectName,Interactable_ID,Iteration_ID,Line_ID,Duration_float,Description
+0,StatueHead,0,1,1,3,"The head of the Statue of Liberty: There is a new mark on the face… it reads ""Lie"". A coup d'etat occurred to rid of the corruption and lies."
+1,StatueTablet,1,1,1,3,"The tablet of the Statue of Liberty: Date reads 04/04/2044… The new day of independence. Another war lasting 15 years, United States of America was finally freed from their shackles. "
+2,StatueTorch,2,1,1,3,The torch of the Statue of Liberty: The fire is no longer present. The light guiding society was lost and only darkness remained.
+3,SphinxHead,3,1,1,3,The head of the Sphinx: Partially survived due to the gold coating. It appears it was coated as protection from something.
+4,SphinxArms,4,1,1,3,The hands of the Sphinx: Severally broken and cracks. It appears that natural disasters were the cause of the Sphinx destruction.  
+5,SphinxButt,5,1,1,3,The rear of the Sphinx: The rear has also been covered in gold. Nothing much too see here…
+6,MantaRay,6,1,1,3,"A mantaray, it has an additional wing. It must have mutated or evolved to cope with the new environment"
+7,BlueWhale,7,1,1,3,"A blue whale, really tiny for its usual size."
+8,Turtle,8,1,1,3,A turtle with spikes on its shell.
+9,Coral01,9,1,1,3,"A coral with flurescent colours, very bright"
+10,Chair,10,1,1,3,A chair?
