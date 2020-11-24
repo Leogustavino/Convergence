@@ -545,53 +545,52 @@
 "../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/MergedActors/SM_Merged_Pillar_4Piece.uasset" 544
 "../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/MergedActors/SM_Merged_Pillar_5Piece.uasset" 545
 "../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/MergedActors/SM_Merged_Pillar_8Piece.uasset" 546
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/MergedActors/SM_MERGED_SM_Train_Pillar_Body35.uasset" 547
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/MergedActors/SM_MERGED_SM_Train_Pillar_Body54.uasset" 548
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/SM_Train_Pillar_Body.uasset" 549
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/SM_Train_Track_Broken.uasset" 550
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/SM_Train_Track_Curve.uasset" 551
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/SM_Train_Track_Straight.uasset" 552
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/SM_Train_Train_Intact.uasset" 553
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Audio/Files/lukas_tvrdon_ambience_underwater_coral_sea_065.uasset" 554
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 555
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 556
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 557
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/TEx/T_Debris_BC.uasset" 558
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/Mat/M_Debris.uasset" 559
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/Partciles/PS_Debris.uasset" 560
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Particles/PS_Bubbles.uasset" 561
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Maps/ConvergencePoint.umap" 562
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 563
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 564
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 565
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 566
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 567
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 568
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 569
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 570
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 571
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Maps/Lighting_BuiltData.uasset" 572
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/TEx/T_Ocean_BC.uasset" 573
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/TEx/T_Ocean_DP.uasset" 574
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/TEx/T_Ocean_N.uasset" 575
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/Mat/M_Ocean.uasset" 576
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Material/M_InteractiveOutline.uasset" 577
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Material/M_ScreenWave.uasset" 578
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 579
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/TEx/T_CausticFlowMap.uasset" 580
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/TEx/T_Caustics.uasset" 581
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/Mat/M_Caustics.uasset" 582
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/Mat/MI_Caustics.uasset" 583
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Maps/Lighting.umap" 584
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/Movies/Title_screen_02.uasset" 585
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/Movies/TItle_mediaPlayer.uasset" 586
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/Movies/TItle_mediaPlayer_Video.uasset" 587
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Widgets/UI/UI_title.uasset" 588
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Widgets/UI/UI_title_bc.uasset" 589
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Widgets/UI/UI_title_button.uasset" 590
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Widgets/UI/UI_title_glow.uasset" 591
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Widgets/MainWidgets/StartMenuWidget.uasset" 592
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Widgets/MainWidgets/LoadingScreenWidget.uasset" 593
-"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Maps/Start.umap" 594
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 595
-"../../../Engine/Content/Maps/Entry.umap" 596
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/MergedActors/SM_MERGED_SM_Train_Pillar_Body54.uasset" 547
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/SM_Train_Pillar_Body.uasset" 548
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/SM_Train_Track_Broken.uasset" 549
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/SM_Train_Track_Curve.uasset" 550
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/SM_Train_Track_Straight.uasset" 551
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Assets/Train/SM_Train_Train_Intact.uasset" 552
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Audio/Files/lukas_tvrdon_ambience_underwater_coral_sea_065.uasset" 553
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 554
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 555
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 556
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/TEx/T_Debris_BC.uasset" 557
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/Mat/M_Debris.uasset" 558
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/Partciles/PS_Debris.uasset" 559
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Particles/PS_Bubbles.uasset" 560
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Maps/ConvergencePoint.umap" 561
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 562
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 563
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 564
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 565
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 566
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 567
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 568
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 569
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 570
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Maps/Lighting_BuiltData.uasset" 571
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/TEx/T_Ocean_BC.uasset" 572
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/TEx/T_Ocean_DP.uasset" 573
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/TEx/T_Ocean_N.uasset" 574
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/Mat/M_Ocean.uasset" 575
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Material/M_InteractiveOutline.uasset" 576
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Material/M_ScreenWave.uasset" 577
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 578
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/TEx/T_CausticFlowMap.uasset" 579
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/TEx/T_Caustics.uasset" 580
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/Mat/M_Caustics.uasset" 581
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Effects/Mat/MI_Caustics.uasset" 582
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Maps/Lighting.umap" 583
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/Movies/Title_screen_02.uasset" 584
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/Movies/TItle_mediaPlayer.uasset" 585
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/Movies/TItle_mediaPlayer_Video.uasset" 586
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Widgets/UI/UI_title.uasset" 587
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Widgets/UI/UI_title_bc.uasset" 588
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Widgets/UI/UI_title_button.uasset" 589
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Widgets/UI/UI_title_glow.uasset" 590
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Widgets/MainWidgets/StartMenuWidget.uasset" 591
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Widgets/MainWidgets/LoadingScreenWidget.uasset" 592
+"../../../../../../OneDrive - Academy of Interactive Entertainment/UE4_Projects/Convergence/Content/_ConvergencePoint/Maps/Start.umap" 593
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 594
+"../../../Engine/Content/Maps/Entry.umap" 595
